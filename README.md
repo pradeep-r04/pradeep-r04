@@ -16,8 +16,17 @@ I'm a **Tech Enthusiast** passionate about building web apps with **Straemlit** 
 
 ---
 
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeep-r04&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-r04&layout=compact&theme=tokyonight)
+
+![Pradeep's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=pradeep-r04&theme=tokyonight)
+
+![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeep-r04&show_icons=true&theme=tokyonight)
+
+### 👁️ Profile Visit Count
+![Visitor Count](https://profile-counter.glitch.me/pradeep-r04/count.svg)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pradeep-r04&theme=onedark)](https://github.com/pradeep-r04/github-profile-trophy)
 
