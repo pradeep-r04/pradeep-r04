@@ -23,5 +23,5 @@ I'm a **Tech Enthusiast** passionate about building web apps with **Straemlit** 
 
 ![Profile views](https://komarev.com/ghpvc/?username=pradeep-r04&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-PradeepSingh-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pradeep-singh4)
-[![Instgarm Badge](https://img.shields.io/badge/-PradeepSingh-red?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/in/whypradeeep)
-[![X Badge](https://img.shields.io/badge/-PradeepSingh-black?style=flat&logo=X&logoColor=white)](https://x.com/in/altpradeep)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![X Badge](https://img.shields.io/badge/-X(twitter)-black?style=flat&logo=x&logoColor=white)](https://x.com/yourusername)
