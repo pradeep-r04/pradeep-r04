@@ -16,16 +16,16 @@ I'm a **Tech Enthusiast** passionate about building web apps with **Straemlit** 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-r04&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-r04&layout=compact&theme=tokyonight)  
 
-![Pradeep's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=pradeep-r04&theme=tokyonight)
+![Pradeep's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=pradeep-r04&theme=tokyonight)  
 
-![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeep-r04&show_icons=true&theme=tokyonight)
+![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeep-r04&show_icons=true&theme=tokyonight)  
 
-### 👁️ Profile Visit Count
-![Visitor Count](https://profile-counter.glitch.me/pradeep-r04/count.svg)
+### 👁️ Profile Visit Count  
+![Profile Views](https://komarev.com/ghpvc/?username=pradeep-r04&color=0e75b6&style=for-the-badge)  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pradeep-r04&theme=onedark)](https://github.com/pradeep-r04/github-profile-trophy)
