@@ -30,7 +30,7 @@ I'm a **Tech Enthusiast** passionate about building web apps with **Straemlit** 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pradeep-r04&theme=onedark)](https://github.com/pradeep-r04/github-profile-trophy)
 
-![Profile views](https://komarev.com/ghpvc/?username=pradeep-r04&color=blue)
-[![Linkedin Badge](https://img.shields.io/badge/-PradeepSingh-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pradeep-singh4)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-singh4)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/whypradeeep)
 [![X Badge](https://img.shields.io/badge/-X(twitter)-black?style=flat&logo=x&logoColor=white)](https://x.com/altpradeep)
