@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Pradeep Singh! 😄
 
-I'm a **Tech Enthusiast** passionate about building web apps with **Straemlit** and exploring **AI & Machine Learning**.
+I'm a **Tech Enthusiast** passionate about building web apps with **Straemlit** and exploring **AI & Machine Learning**.  
+Passionate and detail-oriented **Computer Applications postgraduate** specializing in Frontend Development and Machine Learning.  
+Proven ability to design responsive, user-focused web applications and implement AI models for real-world problem-solving.  
+Skilled in Python, C, JavaScript, and key frameworks like scikit-learn and NLTK, with strong analytical and communication skills.  
+
 
 - 🌱 Currently learning **Next.js** and **Firebase**  
 - 💼 Building projects on **Streamlit** and **Python**  
@@ -12,6 +16,9 @@ I'm a **Tech Enthusiast** passionate about building web apps with **Straemlit** 
 **Frontend:** HTML, CSS, JavaScript   
 **Backend:** Node.js,  
 **Database:** MongoDB, Firebase    
+**Programming Languages:** C, Python, Java, C++  
+**Tools:** Excel, Powerpoint, MySQL  
+**Frameworks:** Pandas, Numpy, Matplotlib, scikit-learn   
 **Other Tools:** Git, GitHub, VS Code  
 
 ---
