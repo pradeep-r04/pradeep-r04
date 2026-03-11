@@ -35,7 +35,6 @@ Skilled in Python, C, JavaScript, and key frameworks like scikit-learn and NLTK,
 ![Profile Views](https://komarev.com/ghpvc/?username=pradeep-r04&color=0e75b6&style=for-the-badge)  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pradeep-r04&theme=onedark)](https://github.com/pradeep-r04/github-profile-trophy)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-singh4)
