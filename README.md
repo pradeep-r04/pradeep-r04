@@ -31,6 +31,8 @@ Skilled in Python, C, JavaScript, and key frameworks like scikit-learn and NLTK,
 
 ![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeep-r04&show_icons=true&theme=tokyonight)  
 
+---
+
 ### 👁️ Profile Visit Count  
 ![Profile Views](https://komarev.com/ghpvc/?username=pradeep-r04&color=0e75b6&style=for-the-badge)  
 
