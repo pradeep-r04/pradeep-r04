@@ -40,5 +40,5 @@ Skilled in Python, C, JavaScript, and key frameworks like scikit-learn and NLTK,
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-singh4)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/whypradeeep)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pradeep.r04)
 [![X Badge](https://img.shields.io/badge/-X(twitter)-black?style=flat&logo=x&logoColor=white)](https://x.com/altpradeep)
